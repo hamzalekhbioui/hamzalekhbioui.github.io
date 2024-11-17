@@ -1,0 +1,30 @@
+site_title: "LEKHBIOUI Hamza"
+site_description: "Software Engineer Student M1"
+email: hamza.lekhbioui@gmail.com
+socials:
+  linkedin: "https://www.linkedin.com/in/hamza-lekhbioui-401b20209/"
+  github: "https://github.com/hamzalekhbioui"
+main:
+  headings: 
+    - "I am LEKHBIOUI Hamza"
+    - "Software Engineer Student M1"
+  paragraphs:
+    - "I love to build things that make a difference in people's lives. I am passionate about technology, developement and business. I am always looking for new opportunities to learn and grow."
+  button:
+    text: "Get in touch"
+    link: "mailto://hamza.lekhbioui@gmail.com"
+
+about:
+  title: "About Me"
+  paragraphs: 
+    - "I'm LEKHBIOUI Hamza, a Master's level software engineering student with a passion for crafting efficient and innovative software solutions. Currently in my M1 year, I'm focused on expanding my knowledge in areas like software architecture, algorithm optimization, and full-stack development."
+    - "With a strong foundation in Java, Python, and web development, I thrive on solving complex problems and bringing creative ideas to life. I'm particularly excited about learning how to design scalable systems and working on projects that push the boundaries of what software can achieve."
+    - "Outside of my studies, I enjoy contributing to open-source projects, playing chess, or drawing, which keeps me balanced and continually learning."
+
+get_in_touch:
+  title: "Get in touch"
+  paragraphs:
+    - "In case you would like to get in touch with me, you can always send me an email"
+  button:
+    text: "Send me an Email"
+    link: "mailto://hamza.lekhbioui@gmail.com"
