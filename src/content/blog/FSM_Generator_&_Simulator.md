@@ -5,23 +5,38 @@ author: LEKHBIOUI Hamza
 date: 2024-12-07
 ---
 
-## Current Progress
+## Description
 
-**Developed XML parsing module.**
-**Began implementing C code generation for PIC microcontrollers.**
-
+Développement d’un outil complet en Python permettant de générer automatiquement du code C à partir d’un graphe FSM (machine à états finis) dessiné avec yED. Le système prend en charge le multitâche (préemptif ou coopératif) et valide la structure du graphe avant génération.
 
 
-## Next Steps
+## Fonctionnalités principales
 
-**Design and implement the graphical simulator interface.**
-**Add functionality to integrate external libraries.**
+Analyse et parsing automatique de fichiers .graphml (issus de yED)
+
+Génération de code C modulaire avec templates Jinja2
+
+Prise en charge de FSM complexes (multi-FSM et multitâche)
+
+Interface graphique (Tkinter) pour sélectionner les fichiers et le mode de génération
+
+Simulation & validation structurelle des FSM (cohérence, transitions, états initiaux, etc.)
+
+
+## Objectif
+Faciliter l’implémentation embarquée de systèmes à états en automatisant l’écriture de leur logique en langage C.
 
 
 
 ## Technologies Used
 
-Python, C, YED, XML parsing
+Python (lxml, jinja2, tkinter)
+
+C (code généré)
+
+yED (modélisation graphique)
+
+GitHub(suivi du projet et versionning)
 
 
 
